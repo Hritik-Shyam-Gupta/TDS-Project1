@@ -7,7 +7,7 @@ This repository contains data about GitHub users in Paris, with over 200 followe
 
 The Data is scrapped using GitHub restful API with a personal Developer access token. The scrapping logic and code is present in the below mentioned file:
 
-### _Scraping mechanism_ <a href="">(Code)</a>
+### _Scraping mechanism_ <a href="https://github.com/Hritik-Shyam-Gupta/TDS-Project1/blob/main/TDS%20Project%201%20-%20Scrapping%20File.py">(Code)</a>
 
 ### Data Collection
 
